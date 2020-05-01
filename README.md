@@ -1,5 +1,5 @@
-PYTHON
-======
+**PYTHON**
+==========
 
-python study
-------------
+**python study**
+----------------
