@@ -48,4 +48,4 @@ print(a, b)
 print(c, d)
 print(e, f)
 a, b = b, a # swap도 간단하게 이루어짐
-print(a, b)
+print(a, b) # a와 b가 바뀌었음!
