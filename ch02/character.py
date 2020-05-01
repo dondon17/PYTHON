@@ -125,3 +125,6 @@ print("양쪽의 공백 제거(strip)   : {}".format("     hello     world    ".
 str1 = "life is too short"
 print("문자열 분리(split)        : {}".format(str1.split()))
 print("문자열 바꾸기(replace)    : {}".format(str1.replace("life", "tonight")))
+
+# count, find, index, join, upper, lower 등의 함수로 문자(열)에 대해 여러가지 작업이 가능
+# format함수의 사용은 익혀둘것!
