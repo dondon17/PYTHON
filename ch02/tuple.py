@@ -23,3 +23,4 @@ print("t2*3          = {}".format(t2*3))
 print("len(t2)       = {}".format(len(t2)))
 
 # 값의 변경이 없는 연산 등에서는 tuple도 가능하다.
+# 즉, 상수로 선언하고 싶은 경우 tuple 자료형이 적합
