@@ -50,3 +50,7 @@ print("Is there key 'foo'? {}".format('foo' in dic))
 
 dic.clear() # dic에 정의해 둔 key, value 쌍을 모두 제거
 print("clear dic  = {}".format(dic))
+
+
+# 새로운 자료형이 아니라 hash를 생각하면 된다
+# key값으로 검색하여 해당 값을 얻어내는 자료형
