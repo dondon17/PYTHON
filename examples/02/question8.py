@@ -1,7 +1,6 @@
-a = dict()
-print("a = {}".format(a))
-a['name'] = 'python'
-a[('a',)] = 'python'
-# a[[1]] = 'python' - dictionary의 key값으로 list는 불가능!!
-a[250] = 'python'
-print("a = {}".format(a))
+t1 = (1,2,3)
+t2 = (4, )
+print("t1 = {}".format(t1))
+print("t2 = {}".format(t1))
+print("="*14)
+print("t1 + t2 = {}".format(t1+t2))
