@@ -36,3 +36,7 @@ s1.update([5,6,7]) # update함수로 여러개의 값을 한번에 추가할 수
 print("add values to s1= {}".format(s1))
 s1.remove(7) # remove함수를 이용해 값을 제거할 수 있다.
 print("remove 7 from s1= {}".format(s1))
+
+# 흔히 아는 집합이 set이라고 생각하면 된다!
+# 교집합, 합집합 등의 집합간의 연산이 적용되고
+# add, update, remove등의 함수로 집합의 원소를 수정할 수 있다.
